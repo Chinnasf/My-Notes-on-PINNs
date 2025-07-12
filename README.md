@@ -10,3 +10,5 @@
 
    ![Images/NN_drawing.png](Images/NN_drawing.png)
 
+* [TensorFlow's Playground](https://playground.tensorflow.org/)
+
