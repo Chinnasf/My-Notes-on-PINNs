@@ -1,5 +1,6 @@
 # My-Notes-on-PINNs
 
+* IMPORTANT: since PINNs are a type of NN focused on solving PDEs with physical insight, it is fundamental to have a good understanding of [Identifiability in PDEs](https://arxiv.org/abs/2402.04241). 
 
 ### USEFUL RESOURCES
 
